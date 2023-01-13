@@ -3,5 +3,5 @@ Pagination Component provides a way for users to switch between pages easily. It
 The uploaded file contains a example of pagination coponent build in HTML and CSS.
 
 ## Key concepts used
-# display:flex;
-# psudeo classes
+### display:flex;
+### psudeo classes
